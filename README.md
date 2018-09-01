@@ -1,7 +1,7 @@
-# ccgpSpider
+﻿# ccgpSpider
 By CxlDragon 2018.9.1
 爬招标公告
-1.导出到excele文件
+1.导出到excel文件
 2.发送到指定邮箱（正文加附件）
 3.只导出和发送最新未爬的内容
 
