@@ -1,20 +1,13 @@
 # ccgpSpider
-招标信息抓取
+By CxlDragon 2018.9.1
+爬招标公告
+1.导出到excele文件
+2.发送到指定邮箱（正文加附件）
+3.只导出和发送最新未爬的内容
 
-中央
-http://www.ccgp.gov.cn/cggg
+初衷：
+初学python，由于最近比较关注ccgp的公告，为了自己方便，撸段代码练手
 
-北京
-http://www.ccgp-beijing.gov.cn/
+爬取页面
+http://search.ccgp.gov.cn/bxsearch
 
-江苏
-http://www.ccgp-jiangsu.gov.cn/
-
-四川
-http://www.ccgp-sichuan.gov.cn/
-
-湖北
-http://www.ccgp-hubei.gov.cn/
-
-河北
-http://www.ccgp-hebei.gov.cn/
